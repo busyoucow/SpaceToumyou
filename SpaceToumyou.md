@@ -206,8 +206,9 @@ copyright: reserved
 生えているうち一本はとうとう防虫ネットを押し出してくる
 <img alt="picture 34" src="images/9daf017004da26e85eb30d7adaccb4da0488206fb1679243d50260f3451088b9.jpg" width="200" />  
 
+
 しかしそれ以外は短く細い
-一部の豆に白カビが生え、切った茎の何本かは茶色く腐ってきた
+一部の豆に白カビが生え、切った茎の何本かは再生せず茶色く腐ってきた
 
 <img alt="picture 35" src="images/b16b64f363caf69b039362b80f7d0661abd51f7c59c68760853b6561ac5a6873.jpg" width="200" />  
 
@@ -217,7 +218,9 @@ copyright: reserved
 <img alt="picture 36" src="images/850cad2c09acb61ad9f764fd7864bacad435d659cc6d701d10cc43b4e1a21c9a.jpg" width="200" />  
 
 
+臭気は特に感じなかったが、再生しない茎があるため
 次回で一旦栽培試験は終了かもしれない
+
 今回はもやしニラミックスと共に雑炊に入れてみた
 
 <img alt="picture 37" src="images/4f1f6e722009203f4706038c78fc838eb9bef60257ecfaefb5278971d5ecaf80.jpg" width="150" />  
@@ -226,6 +229,8 @@ copyright: reserved
 
 ## 5月24日 終了
 深夜に出先から戻ったら植物の腐った匂いがする
+瓶からは水の腐敗臭と植物の腐敗臭が発生し根は全体が茶色く変色している
+
 瓶の中にはエアーポンプで送られた空気による泡が大きく膨らんでいた
 
 <img alt="picture 39" src="images/b5750e98fd5595f0af5d7b68c7c9726deb7330fe6581fd0f001c8c296d668d92.jpg" width="200" />  
